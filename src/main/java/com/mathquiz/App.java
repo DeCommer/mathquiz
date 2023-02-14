@@ -22,8 +22,6 @@ public class App extends Application {
         stage.setResizable(false);
         stage.setTitle("Math Quiz by Joseph DeCommer");
         stage.setScene(scene);
-
-
         stage.show();
 
   
