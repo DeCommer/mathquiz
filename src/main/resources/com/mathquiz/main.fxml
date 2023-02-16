@@ -16,7 +16,7 @@
       </Label>
       <Label layoutX="406.0" layoutY="48.0" text="+ - x ÷">
          <font>
-            <Font size="53.0" />
+            <Font name="Avenir Book" size="53.0" />
          </font>
       </Label>
       <Button layoutX="479.0" layoutY="333.0" mnemonicParsing="false" onAction="#nextQuestion" text="next" />
